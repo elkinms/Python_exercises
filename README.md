@@ -13,10 +13,10 @@ Algorithmic exercises in Python
    0  
 
 3. Check if a subnumber is contained within another number. Using a while loop. Return True or False.  
-   Example: subnumber = 45   number = 344567  =>    return True  
+   Example: subnumber = 45, number = 344567. Return True  
   
 4. Find max element in a giver array with numbers. Return and print max element  
-   Example: array =  [3, 3.14, -1, 0, 66, 13, 6.2]  => Return 66  
+   Example: array =  [3, 3.14, -1, 0, 66, 13, 6.2]. Return 66  
 
 5. Find a minimum prime number greater than a given number. Return and print the prime number  
    Example: 1000000. Return 1000003  
